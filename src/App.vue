@@ -30,12 +30,12 @@
               <!-- GitHub 链接 -->
               <div class="github-link">
                 <a 
-                  href="https://github.com/JLinmr/Pix-Ruom" 
+                  href="https://www.mancs.cn/" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   class="github-button"
                 >
-                  <span>GitHub</span>
+                  <span>漫川</span>
                 </a>
               </div>
             </div>
